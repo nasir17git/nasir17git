@@ -14,6 +14,8 @@
 **OS**
 
 <img src="https://img.shields.io/badge/Linux-#FCC624?&style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-#FCC624?&style=flat&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-#FCC624?&style=flat&logo=Linux&logoColor=white">
 
 **Programming Language**
 
