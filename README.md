@@ -17,6 +17,9 @@
 <img src="https://img.shields.io/badge/Linux-#FCC624?&style=flat&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-#FCC624?&style=flat&logo=Linux&logoColor=white">
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
+
+
 **Programming Language**
 
 <img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=React&logoColor=white"/>
