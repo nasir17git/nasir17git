@@ -9,12 +9,16 @@
 
 ---
 
-##### Tech Stack
+### Tech Stack
 
 **OS**
+
 <img src="https://img.shields.io/badge/Linux-#FCC624?style=flat&logo=React&logoColor=white"/>
+
 **Programming Language**
+
 <img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=React&logoColor=white"/>
+
 **Public Cloud**
 <img src="https://img.shields.io/badge/AWS-#232F3E?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-#0078D4?style=flat&logo=React&logoColor=white"/>
@@ -37,13 +41,13 @@
 <img src="https://img.shields.io/badge/Git-#F05032?style=flat&logo=React&logoColor=white"/>
 ---
 
-##### Certification
+### Certification
 
 <a href="https://www.credential.net/91ebef74-80ff-4159-820a-e0aa86025eec?key=e5ade0ef2f44280a46ac6cf19732a3695e8eb5c5953d135be394dddb8d9135eb#gs.9cdskt"><img src="https://images.credential.net/badge/tiny/tjbm0z2y_1660586578256_badge.png" width="10%" height="10%"></a>
 
 ---
 
-##### Languages
+### Languages
 
 |Language|Test|Score/Grade|Expired|
 |:---:|:---:|:---:|:---:|
@@ -55,7 +59,7 @@
 
 ---
 
-##### Activities
+### Activities
 
 ---
 
