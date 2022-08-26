@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Nasir17&fontSize=60&rotate=13&fontAlign=70&fontAlignY=25&desc=Cloud%20native%20infrastructure%20engineer&descAlignY=43&descAlign=70&&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Nasir17&fontSize=60&fontAlign=50&fontAlignY=40&desc=☁️Cloud%20native%20infrastructure%20engineer&descAlignY=60&descAlign=50&&animation=twinkling"/>
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### :trophy: Certification
 
+<a href="https://https://www.credly.com/badges/25080f75-e738-4e68-a41c-b762e2d217e9/public_url"><img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="15%" height="15%">
 <a href="https://www.credly.com/badges/7f86b7d2-27e2-46dd-a4a7-d2fecb6c2ac3/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="15%" height="15%"> <a href="https://www.credly.com/badges/6910cf4a-d57b-4661-8d6c-84621449fb6e/public_url"><img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="15%" height="15%"> <a href="https://www.credential.net/91ebef74-80ff-4159-820a-e0aa86025eec?key=e5ade0ef2f44280a46ac6cf19732a3695e8eb5c5953d135be394dddb8d9135eb#gs.9cdskt"><img src="https://images.credential.net/badge/tiny/tjbm0z2y_1660586578256_badge.png" width="15%" height="15%"><a href="https://github.com/nasir17git/nasir17git/blob/main/EDU%20PORTAL%20-%20NAVER%20CLOUD%20PLATFORM.pdf"><img src="/NCA.png" width="15%" height="15%"></a>
 
 
@@ -39,7 +40,7 @@
 |:---:|:---:|:---:|:---:|
 |Korean|-|모국어 (Native)|-|
 |English|TOEIC|975(LC 495, RC 480)|2023-06-27|
-|English|OPIC|-||
+|English|OPIC|IM3|2024-08-19|
 |Arabic|-| طلاقة الأعمال (Business Fluency)|-|
 
 
