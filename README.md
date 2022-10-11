@@ -1,11 +1,11 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Nasir17&fontSize=60&fontAlign=50&fontAlignY=40&desc=☁️Cloud%20native%20infrastructure%20engineer&descAlignY=60&descAlign=50&&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Nasir17&fontSize=60&fontAlign=50&fontAlignY=40&desc=☁️Cloud%20native%20DevSecOps&descAlignY=60&descAlign=50&&animation=twinkling"/>
 
 ---
 
 ### :pushpin: Who am I ?
 
-- Infrastructrure Engineer
+- DevSecOps
 - Enthusiastic in knowledge sharing based on skill & experience
 - Focusing on `Kubernetes`,`Automation`,`FinOps` 
 
