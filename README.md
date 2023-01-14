@@ -5,7 +5,7 @@
 
 ### :pushpin: Who am I ?
 
-- DevSecOps
+- Junior DevSecOps
 - Enthusiastic in knowledge sharing based on skill & experience
 - Focusing on `Kubernetes`,`Automation`,`FinOps` 
 
@@ -21,7 +21,7 @@
 |IaC<br>(Infrastructure as Code)|<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=Ansible&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white"/>|
 |Container|<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>|
 |DevOps|<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=black"/> <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=Argo&logoColor=white"/>|
-|Team Productivit|<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/> <img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=Miro&logoColor=white"/>|
+|Team Productivity|<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/> <img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=Miro&logoColor=white"/>|
 
 ---
 
@@ -48,8 +48,10 @@
 
 ### :clipboard: Activities
 
-<a href="https://nasir17git.github.io/"><img src="https://img.shields.io/badge/Blog-3884FF?style=flat&logo=GitBook&logoColor=white"/></a>
-- 개인 공부 기록용 블로그입니다.
-
+<a href="https://nasir17git.github.io/"><img src="https://img.shields.io/badge/-blog-lightgrey?style=flat&logo=GitBook&logoColor=white"/></a>
+- (old) 개인 공부 기록용 블로그입니다.
+  
+<a href="https://logonme.net"><img src="https://img.shields.io/badge/-blog-brightgreen?style=flat&logo=GitBook&logoColor=white"/></a>
+- (new) 개인 기술 블로그입니다.
 ---
 
