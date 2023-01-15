@@ -52,6 +52,6 @@
 - (old) 개인 공부 기록용 블로그입니다.
   
 <a href="https://logonme.net"><img src="https://img.shields.io/badge/-blog-brightgreen?style=flat&logo=GitBook&logoColor=white"/></a>
-- (new) 개인 기술 블로그입니다.
+- (new) 개인 블로그입니다.
 ---
 
